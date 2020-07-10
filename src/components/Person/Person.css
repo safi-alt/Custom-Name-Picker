@@ -6,4 +6,9 @@
   box-sizing: border-box;
   width: 80%;
   text-align: center;
+  cursor: pointer;
+}
+
+.Person:hover {
+  background-color: salmon;
 }
